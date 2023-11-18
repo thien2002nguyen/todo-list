@@ -1,0 +1,186 @@
+{
+    "DetectiveNovels2020": [
+        {
+            "bookTitle": "The Mystery at Midnight",
+            "bookPrice": 21.99,
+            "available": 25,
+            "bookDescription": "A gripping detective novel set in the year 2020, where a mysterious crime unfolds at midnight."
+        },
+        {
+            "bookTitle": "Shadows of Deceit",
+            "bookPrice": 18.50,
+            "available": 20,
+            "bookDescription": "In 'Shadows of Deceit,' Detective Sarah Turner navigates a web of lies and deception to solve a high-profile case."
+        },
+        {
+            "bookTitle": "Deadly Alibis",
+            "bookPrice": 24.75,
+            "available": 15,
+            "bookDescription": "Unravel the deadly alibis in this thrilling detective novel that takes place in the heart of 2020's criminal underworld."
+        },
+        {
+            "bookTitle": "The Silent Witness",
+            "bookPrice": 19.99,
+            "available": 18,
+            "bookDescription": "In 'The Silent Witness,' Detective James Harris confronts a case with a witness who refuses to speak, leading to a challenging investigation."
+        },
+        {
+            "bookTitle": "Crimson Echoes",
+            "bookPrice": 26.50,
+            "available": 12,
+            "bookDescription": "Follow Detective Emma Rodriguez as she unravels the crimson echoes of a crime that shakes the city in 2020."
+        },
+        {
+            "bookTitle": "Cold Trails",
+            "bookPrice": 17.99,
+            "available": 30,
+            "bookDescription": "In 'Cold Trails,' Detective Mark Anderson chases down elusive clues in a case that sends shivers down your spine."
+        },
+        {
+            "bookTitle": "Fatal Secrets",
+            "bookPrice": 23.50,
+            "available": 22,
+            "bookDescription": "Explore the fatal secrets hidden in the shadows as Detective Olivia Martinez races against time to solve a perplexing case in 2020."
+        },
+        {
+            "bookTitle": "Whispers in the Dark",
+            "bookPrice": 20.25,
+            "available": 17,
+            "bookDescription": "The year 2020 brings 'Whispers in the Dark,' a detective novel where Detective Ryan Lewis confronts haunting whispers leading to a dark truth."
+        },
+        {
+            "bookTitle": "In Pursuit of Justice",
+            "bookPrice": 22.99,
+            "available": 14,
+            "bookDescription": "Join Detective Laura Simmons in the pursuit of justice as she tackles a complex case that challenges her every skill in 2020."
+        },
+        {
+            "bookTitle": "Beyond the Shadows",
+            "bookPrice": 25.50,
+            "available": 19,
+            "bookDescription": "Delve 'Beyond the Shadows' with Detective Michael Carter as he uncovers a conspiracy that goes deeper than anyone could imagine in 2020."
+        },
+        {
+            "bookTitle": "Echoes of Betrayal",
+            "bookPrice": 18.75,
+            "available": 16,
+            "bookDescription": "Detective Rachel Thompson confronts 'Echoes of Betrayal' in a case that challenges her loyalty and instincts in 2020."
+        },
+        {
+            "bookTitle": "Silent Pursuit",
+            "bookPrice": 15.99,
+            "available": 25,
+            "bookDescription": "'Silent Pursuit' follows Detective Brian Cooper as he pursues a silent killer, leaving readers on the edge of their seats in 2020."
+        },
+        {
+            "bookTitle": "Lethal Vendetta",
+            "bookPrice": 17.50,
+            "available": 21,
+            "bookDescription": "In 'Lethal Vendetta,' Detective Emily Clark faces a personal vendetta that intertwines with a dangerous criminal underworld in 2020."
+        },
+        {
+            "bookTitle": "Whirlwind of Lies",
+            "bookPrice": 19.25,
+            "available": 18,
+            "bookDescription": "Navigate the 'Whirlwind of Lies' with Detective Daniel Ramirez as he untangles a web of deceit in the year 2020."
+        },
+        {
+            "bookTitle": "Fatal Conspiracy",
+            "bookPrice": 26.99,
+            "available": 12,
+            "bookDescription": "Uncover the 'Fatal Conspiracy' with Detective Jessica Turner as she digs into a case that challenges her beliefs and convictions in 2020."
+        },
+        {
+            "bookTitle": "Ghosts of the Past",
+            "bookPrice": 16.99,
+            "available": 28,
+            "bookDescription": "'Ghosts of the Past' haunt Detective Jason Taylor as he confronts his demons while solving a chilling case in 2020."
+        },
+        {
+            "bookTitle": "Hidden Agendas",
+            "bookPrice": 20.50,
+            "available": 15,
+            "bookDescription": "Detective Megan Brooks unravels 'Hidden Agendas' in a case that takes unexpected turns, keeping readers guessing until the very end in 2020."
+        },
+        {
+            "bookTitle": "The Enigma Files",
+            "bookPrice": 23.99,
+            "available": 20,
+            "bookDescription": "'The Enigma Files' present Detective Patrick Sullivan with a puzzle that challenges his intellect and resolve in the year 2020."
+        },
+        {
+            "bookTitle": "Dark Secrets Unveiled",
+            "bookPrice": 22.50,
+            "available": 17,
+            "bookDescription": "In 'Dark Secrets Unveiled,' Detective Sophia Adams confronts her past as she unveils dark secrets in a case that hits close to home in 2020."
+        },
+        {
+            "bookTitle": "Eternal Shadows",
+            "bookPrice": 24.75,
+            "available": 14,
+            "bookDescription": "Explore the 'Eternal Shadows' with Detective Nathan Harris as he battles against time and an elusive adversary in the year 2020."
+        }
+    ],
+    "EnglishBooks2021": [
+        {
+            "bookTitle": "The Midnight Sky",
+            "bookPrice": 29.99,
+            "available": 20,
+            "bookDescription": "Explore the mysteries of the cosmos in 'The Midnight Sky,' a captivating science fiction novel from 2021."
+        },
+        {
+            "bookTitle": "Echoes of Eternity",
+            "bookPrice": 24.50,
+            "available": 15,
+            "bookDescription": "'Echoes of Eternity' takes readers on a thrilling journey through time, blending history and fantasy in the year 2021."
+        },
+        {
+            "bookTitle": "Whispers in the Wind",
+            "bookPrice": 18.75,
+            "available": 25,
+            "bookDescription": "The gentle 'Whispers in the Wind' carry the secrets of love and loss, creating a touching narrative in 2021."
+        },
+        {
+            "bookTitle": "A Song of Shadows",
+            "bookPrice": 27.49,
+            "available": 18,
+            "bookDescription": "In 'A Song of Shadows,' a haunting melody intertwines with a dark mystery, creating a unique blend of music and suspense in 2021."
+        },
+        {
+            "bookTitle": "The Enchanted Forest",
+            "bookPrice": 32.99,
+            "available": 12,
+            "bookDescription": "Step into 'The Enchanted Forest' and discover a world of magic, mythical creatures, and unexpected adventures in 2021."
+        },
+        {
+            "bookTitle": "Serenade of Stars",
+            "bookPrice": 21.99,
+            "available": 22,
+            "bookDescription": "'Serenade of Stars' weaves a tale of love and destiny against the backdrop of a cosmic symphony, making it a celestial read in 2021."
+        },
+        {
+            "bookTitle": "The Hidden Atlas",
+            "bookPrice": 25.50,
+            "available": 14,
+            "bookDescription": "Uncover the secrets within 'The Hidden Atlas' as characters embark on a journey of self-discovery and exploration in 2021."
+        },
+        {
+            "bookTitle": "Beyond the Horizon",
+            "bookPrice": 19.25,
+            "available": 19,
+            "bookDescription": "Explore new horizons in 'Beyond the Horizon,' a novel that blends adventure, romance, and the pursuit of dreams in 2021."
+        },
+        {
+            "bookTitle": "Eternal Bonds",
+            "bookPrice": 23.99,
+            "available": 16,
+            "bookDescription": "'Eternal Bonds' tells a tale of enduring friendships and unbreakable bonds, creating a heartwarming narrative in 2021."
+        },
+        {
+            "bookTitle": "Ripples of Time",
+            "bookPrice": 28.50,
+            "available": 17,
+            "bookDescription": "Follow the 'Ripples of Time' as characters navigate the currents of history, leaving an indelible mark on the world in 2021."
+        }
+    ]
+}
